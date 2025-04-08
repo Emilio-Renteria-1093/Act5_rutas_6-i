@@ -2,6 +2,18 @@
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
+## Capturas 
+
+![image](https://github.com/user-attachments/assets/937098b5-a624-4a02-8cc5-1750bde9a974)
+
+![image](https://github.com/user-attachments/assets/73308acf-5456-4e63-b333-0616092a13e7)
+
+![image](https://github.com/user-attachments/assets/f3a4c352-ef23-43b2-b67b-9fff01dd4389)
+
+
+
+
+
 ## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
